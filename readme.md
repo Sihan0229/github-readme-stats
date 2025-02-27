@@ -3,7 +3,7 @@
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
-  <p align="center">
+  <p align="center">  
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
@@ -142,7 +142,7 @@ Change the `?username=` value to your GitHub username.
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sihan0229&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sihan0229&repo=github-readme-stats)](https://github.com/Sihan0229/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sihan0229&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 > [!WARNING]\  
 > By default, the stats card only shows statistics like stars, commits, and pull requests from public repositories. To show private statistics on the stats card, you should [deploy your own instance](#deploy-on-your-own) using your own GitHub API token.
