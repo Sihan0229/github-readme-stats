@@ -144,7 +144,7 @@ Change the `?username=` value to your GitHub username.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sihan0229&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sihan0229)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sihan0229&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > [!WARNING]\  
 > By default, the stats card only shows statistics like stars, commits, and pull requests from public repositories. To show private statistics on the stats card, you should [deploy your own instance](#deploy-on-your-own) using your own GitHub API token.
@@ -211,7 +211,7 @@ Since GitHub will re-upload the cards and serve them from their [CDN](https://do
 
 We have included a `transparent` theme that has a transparent background. This theme is optimized to look good on GitHub's dark and light default themes. You can enable this theme using the `&theme=transparent` parameter like so:
 
-```md
+```md 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ```
 
@@ -237,7 +237,7 @@ You can use the `bg_color` parameter to make any of [the available themes](theme
 
 </details>
 
-##### Use GitHub's theme context tag
+##### Use GitHub's theme context tag 
 
 You can use [GitHub's theme context](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/) tags to switch the theme based on the user GitHub theme automatically. This is done by appending `#gh-dark-mode-only` or `#gh-light-mode-only` to the end of an image URL. This tag will define whether the image specified in the markdown is only shown to viewers using a light or a dark GitHub theme:
 
