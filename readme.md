@@ -144,6 +144,8 @@ Change the `?username=` value to your GitHub username.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sihan0229&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sihan0229)](https://github.com/anuraghazra/github-readme-stats)
+
 > [!WARNING]\  
 > By default, the stats card only shows statistics like stars, commits, and pull requests from public repositories. To show private statistics on the stats card, you should [deploy your own instance](#deploy-on-your-own) using your own GitHub API token.
 
