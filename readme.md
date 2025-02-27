@@ -111,7 +111,7 @@ Please visit [this link](https://give.do/fundraisers/stand-beside-the-victims-of
     - [Demo](#demo-2)
 - [WakaTime Stats Card](#wakatime-stats-card)
     - [Demo](#demo-3)
-- [All Demos](#all-demos)
+- [All Demos](#all-demos)  
   - [Quick Tip (Align The Cards)](#quick-tip-align-the-cards)
 - [Deploy on your own](#deploy-on-your-own)
   - [On Vercel](#on-vercel)
@@ -141,8 +141,6 @@ Change the `?username=` value to your GitHub username.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sihan0229&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sihan0229&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sihan0229&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -460,7 +458,7 @@ Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
 ```md
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ```
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sihan0229&repo=github-readme-stats)](https://github.com/Sihan0229/github-readme-stats)
 ### Demo
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats)
